@@ -1,0 +1,6 @@
+cd src
+
+в разных терминалах последовательно:
+start rmiregistry
+Java Server
+java Client
